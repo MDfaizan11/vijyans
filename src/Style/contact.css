@@ -1,0 +1,26 @@
+.first_address_wrapper {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.address_icon {
+  display: flex;
+}
+.mail_wrapper {
+  height: 60px;
+  width: 60px;
+  background-color: #f9f9f9;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transform: scale(1);
+}
+.mail_wrapper img {
+  width: 80%;
+  height: 80%;
+}

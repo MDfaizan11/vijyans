@@ -1,0 +1,89 @@
+.deatls_card_container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+  justify-content: space-evenly;
+}
+.details_card_one {
+  width: 400px;
+  height: 511px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  align-items: center;
+  margin-top: 50px;
+}
+.memberShip_card_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.deep_details_heading {
+  font-size: 25px;
+  font-weight: 600;
+}
+.details_card_one p:nth-child(1) {
+  font-size: 16px;
+  font-weight: 500;
+}
+.details_card_one p:nth-child(2) {
+  font-size: 40px;
+  font-weight: 500;
+}
+.details_card_one p:nth-child(3) {
+  font-size: 20px;
+  color: #999999;
+}
+.details_card_one p:nth-child(4) {
+  font-size: 20px;
+  color: #000000;
+  font-weight: 500;
+}
+.details_card_one p:nth-child(5) {
+  font-size: 17px;
+  color: #4d4d4d;
+  font-weight: 400;
+}
+.details_card_one p:nth-child(6) {
+  font-size: 17px;
+  color: #4d4d4d;
+  font-weight: 400;
+}
+.details_card_one p:nth-child(7) {
+  font-size: 17px;
+  color: #4d4d4d;
+  font-weight: 400;
+}
+.details_card_one p:nth-child(8) {
+  font-size: 17px;
+  color: #4d4d4d;
+  font-weight: 400;
+}
+.deep_details {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.book_button {
+  display: flex;
+  justify-content: center;
+}
+.book_button button {
+  height: 50px;
+  width: 150px;
+  background-color: #ff9800;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 50px;
+}

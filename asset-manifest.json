@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.00694259.css",
+    "main.js": "/my-react-app/static/js/main.3ca66236.js",
+    "static/js/488.5d97b2aa.chunk.js": "/my-react-app/static/js/488.5d97b2aa.chunk.js",
+    "static/media/slider1.jpg": "/my-react-app/static/media/slider1.b2241ee1f0db6f087f22.jpg",
+    "static/media/19142597410.png": "/my-react-app/static/media/19142597410.f7cd8e49887d3bbacd0f.png",
+    "static/media/chetna-img1.png": "/my-react-app/static/media/chetna-img1.ee1d0c124010e8fb972f.e369d7ba2024fa1042c2.png",
+    "static/media/owner_img.png": "/my-react-app/static/media/owner_img.8974f11bdc82a987dd50.png",
+    "static/media/slider3.webp": "/my-react-app/static/media/slider3.242ad6e8f249871d86aa.webp",
+    "static/media/Group 2.svg": "/my-react-app/static/media/Group 2.ee7cde749e728370ea8f569229975d53.svg",
+    "static/media/ac7.jpeg": "/my-react-app/static/media/ac7.a8db628bf9ce1f8f8918.jpeg",
+    "static/media/ac4.jpeg": "/my-react-app/static/media/ac4.d74737ce3a9e7c0595ba.jpeg",
+    "static/media/ac5.jpeg": "/my-react-app/static/media/ac5.e3a891797b80e5f0d005.jpeg",
+    "static/media/ac6.jpeg": "/my-react-app/static/media/ac6.ca18c93d41858dba5fda.jpeg",
+    "static/media/ac3.jpeg": "/my-react-app/static/media/ac3.7e9d439110c822316cb2.jpeg",
+    "static/media/ac2.jpeg": "/my-react-app/static/media/ac2.14a15f50e8d1f7bd30d6.jpeg",
+    "static/media/ac1.jpeg": "/my-react-app/static/media/ac1.b34cf91091cad384203f.jpeg",
+    "static/media/welcomeimg.jpg": "/my-react-app/static/media/welcomeimg.e9b4df751628aba413df.jpg",
+    "static/media/Group 3.svg": "/my-react-app/static/media/Group 3.67989a849d6598ad631164ef09c4a85f.svg",
+    "static/media/intro.jpg": "/my-react-app/static/media/intro.0e49d5d364d259968d08.jpg",
+    "static/media/call_icon-removebg-preview.png": "/my-react-app/static/media/call_icon-removebg-preview.fbda2231e444bc694134.png",
+    "static/media/g1.jpg": "/my-react-app/static/media/g1.cbb076cf04afa81ac7c8.jpg",
+    "static/media/g2.jpg": "/my-react-app/static/media/g2.faf61d709b5525cd58f5.jpg",
+    "static/media/whatsapp+icon-removebg-preview.png": "/my-react-app/static/media/whatsapp+icon-removebg-preview.eaf386ea50591afd9688.png",
+    "static/media/g5.jpg": "/my-react-app/static/media/g5.f526d216c708934f6df3.jpg",
+    "static/media/program-2.jpg": "/my-react-app/static/media/program-2.41a38116978fa284a6b3.jpg",
+    "static/media/g3.jpg": "/my-react-app/static/media/g3.d70da3011159f29270c4.jpg",
+    "static/media/g4.jpg": "/my-react-app/static/media/g4.dc1021507e8730bba6d5.jpg",
+    "static/media/slider4.jpg": "/my-react-app/static/media/slider4.14e1d0238abf3433dcdb.jpg",
+    "static/media/instagram.png": "/my-react-app/static/media/instagram.4a85fa308a481f4ce479.png",
+    "static/media/gmail-icon-free-png.webp": "/my-react-app/static/media/gmail-icon-free-png.d46e4118ad4685af8655.webp",
+    "index.html": "/my-react-app/index.html",
+    "main.00694259.css.map": "/my-react-app/static/css/main.00694259.css.map",
+    "main.3ca66236.js.map": "/my-react-app/static/js/main.3ca66236.js.map",
+    "488.5d97b2aa.chunk.js.map": "/my-react-app/static/js/488.5d97b2aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00694259.css",
+    "static/js/main.3ca66236.js"
+  ]
+}
